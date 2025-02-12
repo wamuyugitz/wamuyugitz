@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wamuyugitz
-- 👀 I’m interested in Web development and Data Analysis
+- 👀 I’m interested in Web development and Data Science
 - 🌱 I’m a Front-end Web Developer (Angular & React)
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (wamuyugitonga@gmail.com)
